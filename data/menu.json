@@ -1,0 +1,18 @@
+{
+    "Draught Beers": [
+      { "id": 1, "name": "Guinness", "price": "€6.00" },
+      { "id": 2, "name": "Heineken", "price": "€5.80" },
+      { "id": 3, "name": "Peroni", "price": "€6.20" }
+    ],
+    "Cocktails": [
+      { "id": 4, "name": "Mojito", "price": "€10.00" },
+      { "id": 5, "name": "Whiskey Sour", "price": "€11.00" },
+      { "id": 6, "name": "Pornstar Martini", "price": "€12.00" }
+    ],
+    "Whiskeys": [
+      { "id": 7, "name": "Jameson", "price": "€8.00" },
+      { "id": 8, "name": "Redbreast", "price": "€10.50" },
+      { "id": 9, "name": "Jack Daniels", "price": "€9.00" }
+    ]
+  }
+  
