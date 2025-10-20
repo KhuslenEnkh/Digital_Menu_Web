@@ -1,5 +1,5 @@
 import { useState } from "react";
-import menuData from "@/data/menu.json";
+import menuData from "../../data/menu.json";
 
 export default function EditMenu() {
   const [data, setData] = useState(menuData);
