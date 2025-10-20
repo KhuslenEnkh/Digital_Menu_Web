@@ -1,10 +1,15 @@
-export default function Home() {
+import menuData from "../../data/menu.json";
+import MenuCategory from "../../components/MenuCategory";
+
+export default function HomeMenu() {
   return (
-    <div className="text-center py-10">
-      <h1 className="text-4xl font-bold mb-4">Welcome to Angie's Drinks Menu</h1>
-      <p className="text-gray-600 text-lg">
-        Browse our selection of Draught Beers, Cocktails, and Whiskeys.
-      </p>
+    <div className="max-w-5xl mx-auto">
+      <h1 className="text-4xl font-bold text-center my-8">
+        🍸 Our Drinks Menu
+      </h1>
+      {Object.keys(menuData).map(category => (
+        <MenuCategory key={category} title={category} items={menuData[category]} />
+      ))}
     </div>
   );
 }
