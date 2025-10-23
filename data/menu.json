@@ -1,24 +1,39 @@
 {
   "Signature Cocktails": [
-    { "id": 1, "name": "Espresso Martini", "price": "€11.00" },
-    { "id": 2, "name": "Old Fashioned", "price": "€12.00" },
-    { "id": 3, "name": "Passionfruit Mojito", "price": "€10.50" }
+    { "id": 1, "name": "Angie's Gin Sour", "price": "€11.75" },
+    { "id": 2, "name": "Expresso Martini", "price": "€11.75" },
+    { "id": 3, "name": "Daisy", "price": "€11.75" },
+    { "id": 4, "name": "Cinnamon Whiskey Sour", "price": "€13.75" },
+    { "id": 5, "name": "Old Fashioned", "price": "€11.75" },
+    { "id": 6, "name": "Pornstar Martini", "price": "€14.75" },
+    { "id": 7, "name": "Margarita", "price": "€13.50" },
+    { "id": 8, "name": "Amaretto Sour", "price": "€13.50" },
+    { "id": 9, "name": "Mai Tai", "price": "€11.50" },
+    { "id": 10, "name": "Irish Mule", "price": "€11.75" },
+    { "id": 11, "name": "After Eight", "price": "€13.75" },
+    { "id": 12, "name": "Aperol Spritz", "price": "€11.75" },
+    { "id": 13, "name": "Mojito", "price": "€13.75" }
   ],
 
   "Beers & Ciders": {
     "Draught": [
-      { "id": 4, "name": "Guinness", "price": "€6.00" },
-      { "id": 5, "name": "Heineken", "price": "€5.80" }
+      { "id": 14, "name": "Guinness", "price": "€6.40" },
+      { "id": 15, "name": "Heineken", "price": "€7.00" },
+      { "id": 16, "name": "Peroni", "price": "€6.80" },
+      { "id": 17, "name": "Hop House 13", "price": "€6.80" }
     ],
     "Bottled": [
-      { "id": 6, "name": "Corona", "price": "€5.90" },
-      { "id": 7, "name": "Peroni", "price": "€6.20" }
+      { "id": 8, "name": "Birra Moretti", "price": "€5.90" },
+      { "id": 9, "name": "Peroni", "price": "€6.20" },
+      { "id": 10, "name": "Heineken", "price": "€7.00" }
     ],
     "Ciders": [
-      { "id": 8, "name": "Bulmers", "price": "€5.80" }
+      { "id": 11, "name": "Bulmers", "price": "€5.80" },
+      { "id": 12, "name": "Kopparberg Strawberry & Lime", "price": "€5.80" }
     ],
     "Non-Alcoholic": [
-      { "id": 9, "name": "Heineken 0.0", "price": "€4.80" }
+      { "id": 13, "name": "Heineken 0.0", "price": "€4.80" },
+      { "id": 14, "name": "Peroni 0.0", "price": "€4.80" }
     ]
   },
 
