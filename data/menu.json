@@ -1,18 +1,48 @@
 {
-    "Draught Beers": [
-      { "id": 1, "name": "Guinness", "price": "€6.00" },
-      { "id": 2, "name": "Heineken", "price": "€5.80" },
-      { "id": 3, "name": "Peroni", "price": "€6.20" }
+  "Signature Cocktails": [
+    { "id": 1, "name": "Espresso Martini", "price": "€11.00" },
+    { "id": 2, "name": "Old Fashioned", "price": "€12.00" },
+    { "id": 3, "name": "Passionfruit Mojito", "price": "€10.50" }
+  ],
+
+  "Beers & Ciders": {
+    "Draught": [
+      { "id": 4, "name": "Guinness", "price": "€6.00" },
+      { "id": 5, "name": "Heineken", "price": "€5.80" }
     ],
-    "Cocktails": [
-      { "id": 4, "name": "Mojito", "price": "€10.00" },
-      { "id": 5, "name": "Whiskey Sour", "price": "€11.00" },
-      { "id": 6, "name": "Pornstar Martini", "price": "€12.00" }
+    "Bottled": [
+      { "id": 6, "name": "Corona", "price": "€5.90" },
+      { "id": 7, "name": "Peroni", "price": "€6.20" }
     ],
-    "Whiskeys": [
-      { "id": 7, "name": "Jameson", "price": "€8.00" },
-      { "id": 8, "name": "Redbreast", "price": "€10.50" },
-      { "id": 9, "name": "Jack Daniels", "price": "€9.00" }
+    "Ciders": [
+      { "id": 8, "name": "Bulmers", "price": "€5.80" }
+    ],
+    "Non-Alcoholic": [
+      { "id": 9, "name": "Heineken 0.0", "price": "€4.80" }
     ]
-  }
-  
+  },
+
+  "Whiskeys": {
+    "Irish": [
+      { "id": 10, "name": "Jameson", "price": "€8.00" },
+      { "id": 11, "name": "Redbreast 12", "price": "€10.50" }
+    ],
+    "Scotch": [
+      { "id": 12, "name": "Johnnie Walker Black", "price": "€9.50" }
+    ],
+    "USA": [
+      { "id": 13, "name": "Jack Daniel’s", "price": "€9.00" }
+    ]
+  },
+
+  "Vodkas, Gins & Rums": [
+    { "id": 14, "name": "Absolut Vodka", "price": "€7.00" },
+    { "id": 15, "name": "Gordon’s Gin", "price": "€7.50" },
+    { "id": 16, "name": "Captain Morgan Rum", "price": "€8.00" }
+  ],
+
+  "Liqueurs": [
+    { "id": 17, "name": "Baileys", "price": "€7.00" },
+    { "id": 18, "name": "Cointreau", "price": "€8.00" }
+  ]
+}
